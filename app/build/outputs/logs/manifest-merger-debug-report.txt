@@ -1,0 +1,325 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Semester7\Sismul5\Snake\android\app\src\main\AndroidManifest.xml:2:1-120:12
+INJECTED from E:\Semester7\Sismul5\Snake\android\app\src\main\AndroidManifest.xml:2:1-120:12
+INJECTED from E:\Semester7\Sismul5\Snake\android\app\src\main\AndroidManifest.xml:2:1-120:12
+INJECTED from E:\Semester7\Sismul5\Snake\android\app\src\main\AndroidManifest.xml:2:1-120:12
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\84b678287bddd05742da344fdf29596c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\ce59190f269506f2c2ad2a286a678ca0\AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-games:17.0.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\2e309c823aa8ef59cd04a0ccca4cf9d6\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads:17.2.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\4ae7cbc81c640638912b45601231a68b\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\8fdcbc1c8ba320651dd41eb867c9866f\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\0b61ea339f51402dd0479921603de4e5\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-drive:16.0.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\11630b6798c650022d86e0870eba0f3a\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\02b46b594463229921f87344af530b8b\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\b48f5d392a171793e763cba9312716b3\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\234d670d64d16645c20ac19d062692ff\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-lite:17.2.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\57833e0f1f1e18b9593d6382ae047de8\AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.android.gms:play-services-gass:17.2.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\1992bc1ebf8319d9aafbeda082d8d2ba\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\9ddeaaf26582c3094b0a3a526dd2edef\AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.3.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\dc0293e30783c00e2b640c280efb7ae8\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\8f9d058ec5c58b70cd1c5ab99643341e\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\b31b8bc4a3ad21ef78dbb2c400610c24\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-ads-base:17.2.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\40b14071c760efd3e844ee4ac88affbf\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\afc86f104e48e99bdbdf799d85af8f05\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\5e972fce1744136c6052f10d6aab8957\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\067a073e5db30c65e8bb40642523036e\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\b97b8ad5cc2352d8ee8d183eb8afcfe5\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\985c9e40eb68bebb60e0372b6a507789\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\8e112a892ee7a647e5a2bed03f570035\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\a86d936df6d35a6b3d2c6f241606d189\AndroidManifest.xml:17:1-30:12
+INJECTED from E:\Semester7\Sismul5\Snake\android\app\src\main\AndroidManifest.xml:2:1-120:12
+INJECTED from E:\Semester7\Sismul5\Snake\android\app\src\main\AndroidManifest.xml:2:1-120:12
+INJECTED from E:\Semester7\Sismul5\Snake\android\app\src\main\AndroidManifest.xml:2:1-120:12
+	package
+		ADDED from E:\Semester7\Sismul5\Snake\android\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from E:\Semester7\Sismul5\Snake\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Semester7\Sismul5\Snake\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\Semester7\Sismul5\Snake\android\app\src\main\AndroidManifest.xml:5:5-28
+		INJECTED from E:\Semester7\Sismul5\Snake\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Semester7\Sismul5\Snake\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Semester7\Sismul5\Snake\android\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\Semester7\Sismul5\Snake\android\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\Semester7\Sismul5\Snake\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Semester7\Sismul5\Snake\android\app\src\main\AndroidManifest.xml
+application
+ADDED from E:\Semester7\Sismul5\Snake\android\app\src\main\AndroidManifest.xml:7:5-94:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\ce59190f269506f2c2ad2a286a678ca0\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\ce59190f269506f2c2ad2a286a678ca0\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-games:17.0.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\2e309c823aa8ef59cd04a0ccca4cf9d6\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games:17.0.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\2e309c823aa8ef59cd04a0ccca4cf9d6\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:16.0.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\11630b6798c650022d86e0870eba0f3a\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:16.0.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\11630b6798c650022d86e0870eba0f3a\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\02b46b594463229921f87344af530b8b\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\02b46b594463229921f87344af530b8b\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\b48f5d392a171793e763cba9312716b3\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\b48f5d392a171793e763cba9312716b3\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\234d670d64d16645c20ac19d062692ff\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\234d670d64d16645c20ac19d062692ff\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:17.2.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\57833e0f1f1e18b9593d6382ae047de8\AndroidManifest.xml:26:5-40:19
+MERGED from [com.google.android.gms:play-services-ads-lite:17.2.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\57833e0f1f1e18b9593d6382ae047de8\AndroidManifest.xml:26:5-40:19
+MERGED from [com.google.android.gms:play-services-gass:17.2.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\1992bc1ebf8319d9aafbeda082d8d2ba\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:17.2.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\1992bc1ebf8319d9aafbeda082d8d2ba\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\9ddeaaf26582c3094b0a3a526dd2edef\AndroidManifest.xml:27:5-28:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\9ddeaaf26582c3094b0a3a526dd2edef\AndroidManifest.xml:27:5-28:19
+MERGED from [com.google.android.gms:play-services-measurement-base:16.3.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\dc0293e30783c00e2b640c280efb7ae8\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.3.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\dc0293e30783c00e2b640c280efb7ae8\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\8f9d058ec5c58b70cd1c5ab99643341e\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\8f9d058ec5c58b70cd1c5ab99643341e\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\b31b8bc4a3ad21ef78dbb2c400610c24\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\b31b8bc4a3ad21ef78dbb2c400610c24\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-ads-base:17.2.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\40b14071c760efd3e844ee4ac88affbf\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:17.2.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\40b14071c760efd3e844ee4ac88affbf\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\afc86f104e48e99bdbdf799d85af8f05\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\afc86f104e48e99bdbdf799d85af8f05\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\5e972fce1744136c6052f10d6aab8957\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\5e972fce1744136c6052f10d6aab8957\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\067a073e5db30c65e8bb40642523036e\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\067a073e5db30c65e8bb40642523036e\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\b97b8ad5cc2352d8ee8d183eb8afcfe5\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\b97b8ad5cc2352d8ee8d183eb8afcfe5\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\985c9e40eb68bebb60e0372b6a507789\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\985c9e40eb68bebb60e0372b6a507789\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\8e112a892ee7a647e5a2bed03f570035\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\8e112a892ee7a647e5a2bed03f570035\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\a86d936df6d35a6b3d2c6f241606d189\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\a86d936df6d35a6b3d2c6f241606d189\AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from E:\Semester7\Sismul5\Snake\android\app\src\main\AndroidManifest.xml:7:18-50
+	android:icon
+		ADDED from E:\Semester7\Sismul5\Snake\android\app\src\main\AndroidManifest.xml:8:9-38
+	android:allowBackup
+		ADDED from E:\Semester7\Sismul5\Snake\android\app\src\main\AndroidManifest.xml:9:9-35
+	android:name
+		ADDED from E:\Semester7\Sismul5\Snake\android\app\src\main\AndroidManifest.xml:10:9-68
+meta-data#com.google.android.gms.version
+ADDED from E:\Semester7\Sismul5\Snake\android\app\src\main\AndroidManifest.xml:12:9-13:69
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\8f9d058ec5c58b70cd1c5ab99643341e\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\8f9d058ec5c58b70cd1c5ab99643341e\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from E:\Semester7\Sismul5\Snake\android\app\src\main\AndroidManifest.xml:13:13-66
+	android:name
+		ADDED from E:\Semester7\Sismul5\Snake\android\app\src\main\AndroidManifest.xml:12:20-65
+meta-data#com.google.android.gms.games.APP_ID
+ADDED from E:\Semester7\Sismul5\Snake\android\app\src\main\AndroidManifest.xml:14:9-15:46
+	android:value
+		ADDED from E:\Semester7\Sismul5\Snake\android\app\src\main\AndroidManifest.xml:15:13-43
+	android:name
+		ADDED from E:\Semester7\Sismul5\Snake\android\app\src\main\AndroidManifest.xml:14:20-70
+activity#com.theSmartWare.ColorBounce.PTPlayer
+ADDED from E:\Semester7\Sismul5\Snake\android\app\src\main\AndroidManifest.xml:17:9-26:20
+	android:screenOrientation
+		ADDED from E:\Semester7\Sismul5\Snake\android\app\src\main\AndroidManifest.xml:19:13-49
+	android:label
+		ADDED from E:\Semester7\Sismul5\Snake\android\app\src\main\AndroidManifest.xml:18:13-45
+	android:configChanges
+		ADDED from E:\Semester7\Sismul5\Snake\android\app\src\main\AndroidManifest.xml:21:13-48
+	android:theme
+		ADDED from E:\Semester7\Sismul5\Snake\android\app\src\main\AndroidManifest.xml:20:13-71
+	android:name
+		ADDED from E:\Semester7\Sismul5\Snake\android\app\src\main\AndroidManifest.xml:17:19-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Semester7\Sismul5\Snake\android\app\src\main\AndroidManifest.xml:22:13-25:29
+action#android.intent.action.MAIN
+ADDED from E:\Semester7\Sismul5\Snake\android\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from E:\Semester7\Sismul5\Snake\android\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Semester7\Sismul5\Snake\android\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from E:\Semester7\Sismul5\Snake\android\app\src\main\AndroidManifest.xml:24:27-74
+meta-data#com.google.android.gms.ads.APPLICATION_ID
+ADDED from E:\Semester7\Sismul5\Snake\android\app\src\main\AndroidManifest.xml:35:9-36:69
+	android:value
+		ADDED from E:\Semester7\Sismul5\Snake\android\app\src\main\AndroidManifest.xml:36:13-67
+	android:name
+		ADDED from E:\Semester7\Sismul5\Snake\android\app\src\main\AndroidManifest.xml:35:20-76
+activity#com.google.android.gms.ads.AdActivity
+ADDED from E:\Semester7\Sismul5\Snake\android\app\src\main\AndroidManifest.xml:38:9-40:64
+MERGED from [com.google.android.gms:play-services-ads-lite:17.2.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\57833e0f1f1e18b9593d6382ae047de8\AndroidManifest.xml:29:9-33:64
+MERGED from [com.google.android.gms:play-services-ads-lite:17.2.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\57833e0f1f1e18b9593d6382ae047de8\AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.2.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\57833e0f1f1e18b9593d6382ae047de8\AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from E:\Semester7\Sismul5\Snake\android\app\src\main\AndroidManifest.xml:39:13-122
+	android:theme
+		ADDED from E:\Semester7\Sismul5\Snake\android\app\src\main\AndroidManifest.xml:40:13-61
+	android:name
+		ADDED from E:\Semester7\Sismul5\Snake\android\app\src\main\AndroidManifest.xml:38:19-71
+supports-screens
+ADDED from E:\Semester7\Sismul5\Snake\android\app\src\main\AndroidManifest.xml:96:5-99:39
+	android:largeScreens
+		ADDED from E:\Semester7\Sismul5\Snake\android\app\src\main\AndroidManifest.xml:96:23-50
+	android:smallScreens
+		ADDED from E:\Semester7\Sismul5\Snake\android\app\src\main\AndroidManifest.xml:97:9-36
+	android:normalScreens
+		ADDED from E:\Semester7\Sismul5\Snake\android\app\src\main\AndroidManifest.xml:99:9-37
+	android:anyDensity
+		ADDED from E:\Semester7\Sismul5\Snake\android\app\src\main\AndroidManifest.xml:98:9-34
+uses-permission#android.permission.INTERNET
+ADDED from E:\Semester7\Sismul5\Snake\android\app\src\main\AndroidManifest.xml:112:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:17.2.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\57833e0f1f1e18b9593d6382ae047de8\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:17.2.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\57833e0f1f1e18b9593d6382ae047de8\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\9ddeaaf26582c3094b0a3a526dd2edef\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\9ddeaaf26582c3094b0a3a526dd2edef\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from E:\Semester7\Sismul5\Snake\android\app\src\main\AndroidManifest.xml:112:22-64
+uses-permission#com.android.vending.BILLING
+ADDED from E:\Semester7\Sismul5\Snake\android\app\src\main\AndroidManifest.xml:113:5-67
+	android:name
+		ADDED from E:\Semester7\Sismul5\Snake\android\app\src\main\AndroidManifest.xml:113:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\Semester7\Sismul5\Snake\android\app\src\main\AndroidManifest.xml:114:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:17.2.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\57833e0f1f1e18b9593d6382ae047de8\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:17.2.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\57833e0f1f1e18b9593d6382ae047de8\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\9ddeaaf26582c3094b0a3a526dd2edef\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\9ddeaaf26582c3094b0a3a526dd2edef\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from E:\Semester7\Sismul5\Snake\android\app\src\main\AndroidManifest.xml:114:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\Semester7\Sismul5\Snake\android\app\src\main\AndroidManifest.xml:115:5-75
+	android:name
+		ADDED from E:\Semester7\Sismul5\Snake\android\app\src\main\AndroidManifest.xml:115:22-73
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\Semester7\Sismul5\Snake\android\app\src\main\AndroidManifest.xml:116:5-81
+	android:name
+		ADDED from E:\Semester7\Sismul5\Snake\android\app\src\main\AndroidManifest.xml:116:22-78
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\Semester7\Sismul5\Snake\android\app\src\main\AndroidManifest.xml:117:5-81
+	android:name
+		ADDED from E:\Semester7\Sismul5\Snake\android\app\src\main\AndroidManifest.xml:117:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\Semester7\Sismul5\Snake\android\app\src\main\AndroidManifest.xml:118:5-74
+	android:name
+		ADDED from E:\Semester7\Sismul5\Snake\android\app\src\main\AndroidManifest.xml:118:22-72
+uses-sdk
+INJECTED from E:\Semester7\Sismul5\Snake\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Semester7\Sismul5\Snake\android\app\src\main\AndroidManifest.xml
+INJECTED from E:\Semester7\Sismul5\Snake\android\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\84b678287bddd05742da344fdf29596c\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\84b678287bddd05742da344fdf29596c\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\ce59190f269506f2c2ad2a286a678ca0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\ce59190f269506f2c2ad2a286a678ca0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games:17.0.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\2e309c823aa8ef59cd04a0ccca4cf9d6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games:17.0.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\2e309c823aa8ef59cd04a0ccca4cf9d6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads:17.2.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\4ae7cbc81c640638912b45601231a68b\AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads:17.2.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\4ae7cbc81c640638912b45601231a68b\AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\8fdcbc1c8ba320651dd41eb867c9866f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\8fdcbc1c8ba320651dd41eb867c9866f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\0b61ea339f51402dd0479921603de4e5\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\0b61ea339f51402dd0479921603de4e5\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-drive:16.0.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\11630b6798c650022d86e0870eba0f3a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive:16.0.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\11630b6798c650022d86e0870eba0f3a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\02b46b594463229921f87344af530b8b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\02b46b594463229921f87344af530b8b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\b48f5d392a171793e763cba9312716b3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\b48f5d392a171793e763cba9312716b3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\234d670d64d16645c20ac19d062692ff\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\234d670d64d16645c20ac19d062692ff\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:17.2.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\57833e0f1f1e18b9593d6382ae047de8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:17.2.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\57833e0f1f1e18b9593d6382ae047de8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass:17.2.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\1992bc1ebf8319d9aafbeda082d8d2ba\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:17.2.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\1992bc1ebf8319d9aafbeda082d8d2ba\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\9ddeaaf26582c3094b0a3a526dd2edef\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\9ddeaaf26582c3094b0a3a526dd2edef\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.3.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\dc0293e30783c00e2b640c280efb7ae8\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.3.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\dc0293e30783c00e2b640c280efb7ae8\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\8f9d058ec5c58b70cd1c5ab99643341e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\8f9d058ec5c58b70cd1c5ab99643341e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\b31b8bc4a3ad21ef78dbb2c400610c24\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\b31b8bc4a3ad21ef78dbb2c400610c24\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:17.2.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\40b14071c760efd3e844ee4ac88affbf\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:17.2.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\40b14071c760efd3e844ee4ac88affbf\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\afc86f104e48e99bdbdf799d85af8f05\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\afc86f104e48e99bdbdf799d85af8f05\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\5e972fce1744136c6052f10d6aab8957\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\5e972fce1744136c6052f10d6aab8957\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\067a073e5db30c65e8bb40642523036e\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\067a073e5db30c65e8bb40642523036e\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\b97b8ad5cc2352d8ee8d183eb8afcfe5\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\b97b8ad5cc2352d8ee8d183eb8afcfe5\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\985c9e40eb68bebb60e0372b6a507789\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\985c9e40eb68bebb60e0372b6a507789\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\8e112a892ee7a647e5a2bed03f570035\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\8e112a892ee7a647e5a2bed03f570035\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\a86d936df6d35a6b3d2c6f241606d189\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\a86d936df6d35a6b3d2c6f241606d189\AndroidManifest.xml:20:5-22:41
+INJECTED from E:\Semester7\Sismul5\Snake\android\app\src\main\AndroidManifest.xml
+INJECTED from E:\Semester7\Sismul5\Snake\android\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:17.2.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\4ae7cbc81c640638912b45601231a68b\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from E:\Semester7\Sismul5\Snake\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\Semester7\Sismul5\Snake\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Semester7\Sismul5\Snake\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Semester7\Sismul5\Snake\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\Semester7\Sismul5\Snake\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Semester7\Sismul5\Snake\android\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\ce59190f269506f2c2ad2a286a678ca0\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\ce59190f269506f2c2ad2a286a678ca0\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\ce59190f269506f2c2ad2a286a678ca0\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\ce59190f269506f2c2ad2a286a678ca0\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\ce59190f269506f2c2ad2a286a678ca0\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\ce59190f269506f2c2ad2a286a678ca0\AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\ce59190f269506f2c2ad2a286a678ca0\AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\ce59190f269506f2c2ad2a286a678ca0\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\ce59190f269506f2c2ad2a286a678ca0\AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\02b46b594463229921f87344af530b8b\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\02b46b594463229921f87344af530b8b\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\02b46b594463229921f87344af530b8b\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\02b46b594463229921f87344af530b8b\AndroidManifest.xml:24:13-79
+provider#com.google.android.gms.ads.MobileAdsInitProvider
+ADDED from [com.google.android.gms:play-services-ads-lite:17.2.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\57833e0f1f1e18b9593d6382ae047de8\AndroidManifest.xml:35:9-39:39
+	android:authorities
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.2.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\57833e0f1f1e18b9593d6382ae047de8\AndroidManifest.xml:37:13-73
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.2.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\57833e0f1f1e18b9593d6382ae047de8\AndroidManifest.xml:38:13-37
+	android:initOrder
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.2.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\57833e0f1f1e18b9593d6382ae047de8\AndroidManifest.xml:39:13-36
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.2.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\57833e0f1f1e18b9593d6382ae047de8\AndroidManifest.xml:36:13-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\9ddeaaf26582c3094b0a3a526dd2edef\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\9ddeaaf26582c3094b0a3a526dd2edef\AndroidManifest.xml:25:22-65
+meta-data#android.support.VERSION
+ADDED from [com.android.support:customtabs:26.1.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\b31b8bc4a3ad21ef78dbb2c400610c24\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\afc86f104e48e99bdbdf799d85af8f05\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\afc86f104e48e99bdbdf799d85af8f05\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\5e972fce1744136c6052f10d6aab8957\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\5e972fce1744136c6052f10d6aab8957\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\067a073e5db30c65e8bb40642523036e\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\067a073e5db30c65e8bb40642523036e\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\b97b8ad5cc2352d8ee8d183eb8afcfe5\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\b97b8ad5cc2352d8ee8d183eb8afcfe5\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\985c9e40eb68bebb60e0372b6a507789\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\985c9e40eb68bebb60e0372b6a507789\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\8e112a892ee7a647e5a2bed03f570035\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\8e112a892ee7a647e5a2bed03f570035\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:customtabs:26.1.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\b31b8bc4a3ad21ef78dbb2c400610c24\AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:customtabs:26.1.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\b31b8bc4a3ad21ef78dbb2c400610c24\AndroidManifest.xml:24:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\a86d936df6d35a6b3d2c6f241606d189\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\a86d936df6d35a6b3d2c6f241606d189\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\FARRID-HOME\.gradle\caches\transforms-2\files-2.1\a86d936df6d35a6b3d2c6f241606d189\AndroidManifest.xml:26:13-58

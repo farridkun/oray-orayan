@@ -1,0 +1,2 @@
+# Referenced at C:\Users\HP\Desktop\Snake\android\app\build\intermediates\merged_manıfests\debug\processDebugManifest\merged\AndroidManifest.xml:39
+-keep class android.support.multidex.MultiDexApplication { <init>(...); }
